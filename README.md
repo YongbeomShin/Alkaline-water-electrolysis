@@ -13,6 +13,8 @@ Abstract
 - Cell Voltage
 ![image](https://user-images.githubusercontent.com/82799346/115238748-fdab7b80-a158-11eb-863d-8166717d896a.png)
 
+![image](https://user-images.githubusercontent.com/82799346/115239490-c38ea980-a159-11eb-8902-89a6a68ab459.png)
+
 - Thermal Model - 구축 예정
 - Hydrogen Production Model - 구축 예정
 
