@@ -1,4 +1,4 @@
-# iSEL-Open-Source
+# iSEL-Open-Source: Alkaline Water Electrolysis System Simulation Python Module
 
 신재생에너지 연계 P2G 공정의 디지털 트윈: 수소생산을 위한 알칼라인 수전해 시스템
 
